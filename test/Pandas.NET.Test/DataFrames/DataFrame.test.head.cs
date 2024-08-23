@@ -2,7 +2,7 @@ using static PandasNet.PandasApi;
 using Tensorflow;
 using System.Linq;
 
-namespace Pandas.Test.DataFrames
+namespace Pandas.Test
 {
     public class DataFrameHeadTest
     {
